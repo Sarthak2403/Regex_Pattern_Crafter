@@ -35,7 +35,7 @@ The notebook provides:
 - Outputs demonstrating successful text extraction.
 
 ## Prerequisites
-- Python 3.x
+- Python
 - `re` module (built into Python)
 - Jupyter Notebook
 
